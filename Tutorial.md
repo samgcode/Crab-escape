@@ -1,10 +1,10 @@
 # Tutorial
-[skip](./game/start.md)
+[skip](Start.html)
 Crab escape is a point and click adventure game (also known as a "Wikipedia simulator"). All of the story is told through descriptions at the top of each page. Any action you can take will be a different color and underlined, like [this](./bozo.html).
 
 There is also a secret ending if you find all #endings endings :0
 Alright that's it, have fun!
-## [Play](./game/Start.md)
+## [Play](Start.html)
 [home](./) 
 
 ## Race mode
